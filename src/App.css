@@ -1,0 +1,29 @@
+.navbar li {
+  margin-left: 1vw;
+  margin-right: 1vw;
+}
+
+/* .wrapper {
+  border: 1px solid #FF9900;
+}
+
+.container {
+  background-color: gainsboro;
+}
+
+.barCompleted {
+  background-color: #FF9900;
+  width: 70%;
+}
+
+.label {
+  font-size: 20px;
+  color: green;
+}
+.orange-progress-bar {
+  background-color: orange;
+} */
+
+.active-link {
+  color: #718740;
+}
