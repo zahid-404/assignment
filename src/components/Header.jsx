@@ -10,7 +10,7 @@ function Header() {
         <ul className="flex font-semibold">
           <li>
             <Link
-              to="/home"
+              to="/"
               className={location.pathname === "/home" ? "active-link" : ""}
             >
               Home
